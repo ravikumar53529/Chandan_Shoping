@@ -1,0 +1,81 @@
+body{
+    background-color: aquamarine;
+   
+}
+.container{
+  background-color: rgb(226, 77, 77);
+    height: 200px;
+}
+p ,h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+h3{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.sec1{
+    float: left;
+   
+}
+
+.sec2{
+    float:left ;
+    padding-left: 80px;
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.sec3{
+    float: right;
+}
+.container-fluid{
+    background-color: rgb(9, 4, 41);
+   
+    
+}
+p i{
+    font-size: 20px;
+    color: red;
+}
+.col{
+    
+    float: left;
+    padding-left: 100px;
+    color: white;
+}
+.col{
+   
+    float: left;
+}
+.col{
+     float: right;
+     padding-left: 200px;
+}
+.copyright{
+    text-align: center;
+}
+#fb{
+    color: rgb(0, 47, 255);
+    font-size: 25px;
+    padding: 5px;
+}
+#ytb{
+    color: rgb(216, 31, 31);
+    font-size: 25px;
+    padding: 5px;
+}
+#tw{
+    color:skyblue;
+    font-size: 25px;
+    padding: 5px;
+
+}
+#what{
+    color: rgb(32, 204, 32);
+    font-size: 25px;
+    padding: 25px;
+}
